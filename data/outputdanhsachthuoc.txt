@@ -1,0 +1,10 @@
+tpchucnang,Hoat huyet nhat nhat,300000.0,1000,dieu tri tuan hoan mau
+tpchucnang,Dau ca Omega,300000.0,1000,bo sung vitamin A
+tpchucnang,Vien ngam bac ha,20000.0,1000,giam dau hong
+tpchucnang,Dong xoang tan nam duoc,300000.0,1000,giam dau dau
+tpchucnang,Bo phe Nam Ha,300000.0,1000,bo sung khi huyet
+thuocdactri,thuoc ho,30000.0,1000,dieu tri ho cam
+thuocdactri,thuoc so mui,30000.0,1000,dieu tri so mui
+thuocdactri,thuoc dau dau,50000.0,1000,dieu tri cac con dau dau
+thuocdactri,thuoc ha sot,50000.0,1000,ha nhanh con sot
+thuocdactri,thuoc giam dau,100000.0,1000,giam nhanh con dau

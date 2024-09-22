@@ -1,0 +1,10 @@
+nguyen van an,123 an duong vuong q5 tphcm,0902739102,12/12/1997,3122410352
+nguyen thi my an,32 nguyen trai q5 tphcm,0933028172,01/12/1990,3122410388
+le thi hang,100 nguyen cu trinh q1 tphcm,0344078921,23/12/2000,3122410322
+huynh cong hieu,12 duong ba trac q8 tphcm,0902092819,10/10/1993,3122410366
+nguyen thi an,45 au co q.tbinh tphcm,0764038611,04/02/1998,3122410377
+le thi my hang,56 lac long quan q.tbinh tphcm,0933879022,05/06/1987,3122410356
+huynh tran duy tan,100 quang trung q.govap tphcm,0763087588,12/07/1994,3122410298
+le thi na,200 vinh vien q.10 tphcm,0979973324,10/01/1980,3122410672
+nguyen van nam,153 nguyen thuong hien q3 tphcm,0978872926,12/09/1984,3122410673
+le thi dung,12 thoi hoa h.bchanh tphcm,0978920164,09/11/2000,3122410628

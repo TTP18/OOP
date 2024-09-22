@@ -1,0 +1,10 @@
+nguyen van a,15 binh hung hoa,1100000000,12a
+nguyen van b,56 tan phu,1000000000,13a
+nguyen van c,3 trong phu,2000000000,14a
+nguyen van d,5 nguyen trai,3000000000,15a
+nguyen van e,6 tan binh,4000000000,16a
+nguyen van f,78a luy ban bich,5000000000,17a
+nguyen van g,312 q3,6000000000,18a
+nguyen van h,128 q1,7000000000,19a
+nguyen van i,19 q5,8000000000,20a
+nguyen van k,77 q6,9000000000,21a
